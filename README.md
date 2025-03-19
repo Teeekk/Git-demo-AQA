@@ -1,3 +1,5 @@
 # Git-demo-AQA
 
-some content for merging it
+this is my firs project in AQA
+
+learning file
